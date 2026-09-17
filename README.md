@@ -6,16 +6,17 @@ Notebooks based on *Essential Math for Data Science* (Thomas Nield).
 
 | Notebook | Topic |
 |----------|-------|
-| `cap4_linear_algebra.ipynb` | Vectors, matrices, transformations, determinants, eigenvalues |
-| `cap5_linear_regression.ipynb` | Linear regression, correlation, hypothesis testing, coefficient of determination |
-
+| `ch4_linear_algebra.ipynb` | Vectors, matrices, transformations, determinants, eigenvalues |
+| `ch5_linear_regression.ipynb` | Linear regression, correlation, hypothesis testing, coefficient of determination |
+| `ch2_probability.ipynb` | Probability, Bayes' theorem, binomial and beta distributions |
 
 ## Tech Stack
-Python · NumPy · Jupyter Notebook
+Python · NumPy · Pandas · SciPy · scikit-learn · SymPy · Jupyter Notebook
 
 ## How to run
-pip install numpy jupyter
-jupyter notebook
+```bash
+pip install numpy pandas scipy scikit-learn sympy jupyter
+```
 
 ## Author
 Quehat Fonseca — [GitHub](https://github.com/quehat-fonseca)

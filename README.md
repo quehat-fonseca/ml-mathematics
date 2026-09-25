@@ -6,6 +6,7 @@ Notebooks based on *Essential Math for Data Science* (Thomas Nield).
 
 | Notebook | Topic |
 |----------|-------|
+| `ch3_descriptive_and_inferential_statistics.ipynb` | Vectors, matrices, transformations, determinants, eigenvalues |
 | `ch4_linear_algebra.ipynb` | Vectors, matrices, transformations, determinants, eigenvalues |
 | `ch5_linear_regression.ipynb` | Linear regression, correlation, hypothesis testing, coefficient of determination |
 | `ch2_probability.ipynb` | Probability, Bayes' theorem, binomial and beta distributions |

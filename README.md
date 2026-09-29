@@ -12,11 +12,11 @@ Notebooks based on *Essential Math for Data Science* (Thomas Nield).
 | `ch5_linear_regression.ipynb` | Linear regression, correlation, hypothesis testing, coefficient of determination |
 
 ## Tech Stack
-Python · NumPy · Pandas · SciPy · scikit-learn · SymPy · Jupyter Notebook
+Python · NumPy · Pandas · SciPy · scikit-learn · SymPy · Plotly · Jupyter Notebook
 
 ## How to run
 ```bash
-pip install numpy pandas scipy scikit-learn sympy jupyter
+pip install numpy pandas scipy scikit-learn sympy plotly jupyter
 ```
 
 ## Author
